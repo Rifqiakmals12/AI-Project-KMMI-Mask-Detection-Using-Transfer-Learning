@@ -1,7 +1,7 @@
 # Project-2-KMMI-Mask-Detection-
 
 ### Download Dataset & Model :
-
+https://drive.google.com/drive/folders/1PfWjdfjgCWwvIYARnKMWkOkjbCKqEs6w?usp=sharing
 
 ### Dokumentasi Hasil Deteksi :
 ![image](https://user-images.githubusercontent.com/72428679/139575195-abef1734-d068-4aa2-805c-d19df8a5fc8b.png)
