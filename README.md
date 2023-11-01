@@ -1,3 +1,7 @@
+![image](https://github.com/Rifqiakmals12/AI-Project-KMMI-Mask-Detection-Using-Transfer-Learning/assets/72428679/ea6477a3-7e81-4909-b7cc-6f14464dfd52)
+
+
+
 # Project AI-KMMI-Mask-Detection
 
 ### Penjelasan
